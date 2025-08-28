@@ -9,3 +9,5 @@ Búðu til nýa kröfu með því að fara í Issues / New Issue - kröfurnar li
 Tengdu Issue-ið við Project-ið 
 
 Farðu inn í Project-ið og settu issue-ið á rétt borð (Kanban)
+
+Jafnóðum og þú bætir við, lýkur við kröfum (issue) eða alveg í lokin, bættu þeim við SRS.md skrána 
