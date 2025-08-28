@@ -1,6 +1,6 @@
 # 📦 Dæmi um repo sem er búið til úr sniðmáti
 
-Repoið er með dæmi um eitt Issue (krafa)
+Þetta repo er með dæmi um eitt Issue (krafa)
 
 Repoið er með einu Project-i 
 
